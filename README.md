@@ -1,6 +1,6 @@
-# C Bankamatik Simülasyonu
+# C Bankamatik
 
-Gömülü sistemler için optimize edilmiş C dilinde bankamatik simülasyonu.
+C programlama ile geliştirilmiş bankamatik simülasyonu.
 
 ## Özellikler
 
